@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEGAISupport", "CEGAISupport\CEGAISupport.csproj", "{26446B48-7822-4B20-A69D-99CADEF657EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26446B48-7822-4B20-A69D-99CADEF657EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26446B48-7822-4B20-A69D-99CADEF657EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26446B48-7822-4B20-A69D-99CADEF657EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26446B48-7822-4B20-A69D-99CADEF657EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E17299B7-DD01-4FEB-963D-7C0C02BD81FD}
+	EndGlobalSection
+EndGlobal
