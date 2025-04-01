@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>CEG AI Support</Name>
+		<Assembly>C:\_chatbot\CEGAISupport.dll</Assembly>
+		<!-- Thay đổi đường dẫn -->
+		<FullClassName>CEGAISupport.App</FullClassName>
+		<ClientId>{CFBDCDEB-E95F-4CD2-B7FD-C4740D85C31D}</ClientId>
+		<!-- Thay bằng GUID mới -->
+		<VendorId>YOUR_VENDOR_ID</VendorId>
+		<VendorDescription>Your Company Name</VendorDescription>
+	</AddIn>
+</RevitAddIns>
